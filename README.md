@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aidinzzzz
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Aidin13766@gmail.com
 
 <!---
